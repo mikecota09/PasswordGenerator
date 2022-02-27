@@ -16,9 +16,9 @@ The project fulfills the following requirements:
 
 ## Links
 
-Link to Github Repository: https://github.com/mikecota09/PasswordGenerator.git
+[Link to the code repository](https://github.com/mikecota09/PasswordGenerator.git)
 
-Link to Deployed Page: https://mikecota09.github.io/PasswordGenerator/
+[Link to the deployed website](https://mikecota09.github.io/PasswordGenerator/)
 
 ## Screenshots
 
