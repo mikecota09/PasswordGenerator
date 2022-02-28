@@ -20,6 +20,8 @@ The project fulfills the following requirements:
 
 [Link to the deployed website](https://mikecota09.github.io/PasswordGenerator/)
 
+* **Michael Cota 2/27/2022**
+
 ## Screenshots
 
 <img src="password-generator.png" alt="picture of password generator"> <br>
